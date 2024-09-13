@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/652110260/UR/Lab9/Content/UI/UI.uasset",
+				"D:/652110260/UR/Lab9/Content/UI/Timerwidget.uasset",
+				"D:/652110260/UR/Lab9/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/652110260/UR/Lab9/Content/BluePrint/Timer_BP.uasset",
+				"D:/652110260/UR/Lab9/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/652110260/UR/Lab9/Content/UI/MainMenu.uasset",
+				"D:/652110260/UR/Lab9/Content/BluePrint/Menu_BP.uasset"
+			]
+		}
+	]
+}
